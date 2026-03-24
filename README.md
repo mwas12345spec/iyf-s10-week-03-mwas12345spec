@@ -1,23 +1,24 @@
-# Week {Number}: {Project Title}
+# Week 03:  building a with   portfolio with  this  outputs(• terminal-log.md documenting your CLI commands ,Repository with                       meaningful  Git history (5+ commits) ,Professional README.md,gitignore file configured,Demonstrated branching and merging
 
 ## Author
-- **Name:** Your Full Name
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:** Mark Mwangi
+- **GitHub:** [@mwas12345spec](https://mwas12345spec)
+- **Date:** 03/ 04/ 2026
 
 ## Project Description
-Brief description of what you built and why.
+building a  portfolio with  this  outputs(• terminal-log.md documenting your CLI commands ,Repository with                       meaningful  Git history (5+ commits) ,Professional README.md,gitignore file configured,Demonstrated branching and merging
+
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- (list all technologies)
+-  index.HTML
+- proffesional readme.md
+- style.css
+- terminal-log.md
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Feature :terminal-log.md documenting your CLI commands
+- Feature :Repository with meaningful Git history (5+ commit
+- Feature :Repository with meaningful Git history (5+ commit
 
 ## How to Run
 1. Clone this repository
@@ -26,13 +27,10 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
+I learned Mastering the command line and Git version control   as essential tools for every professional developer.
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
+i did not problems  encounter
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https:// https://mwas12345spec.github.io/iyf-s10-week-03-mwas12345spec/)
