@@ -27,7 +27,14 @@ building a  portfolio with  this  outputs(• terminal-log.md documenting your C
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-I learned Mastering the command line and Git version control   as essential tools for every professional developer.
+  1.How to navigate directories using CLI commands
+  2.Creating, copying, moving, and deleting files via terminal
+  3.Using commands like (<code>find</code>, <code>grep</code>, and <code>wc</code>)
+  4.Initializing Git repositories
+  5.Creating commits with meaningful messages
+  6.Working with branches and merging them
+  7.Connecting local repositories to GitHub
+  8.Writing a professional README file
 
 ## Challenges Faced
 i did not problems  encounter
