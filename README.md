@@ -1,4 +1,4 @@
-# Week 03:  building a with   portfolio with  this  outputs(• terminal-log.md documenting your CLI commands ,Repository with                       meaningful  Git history (5+ commits) ,Professional README.md,gitignore file configured,Demonstrated branching and merging
+# Week 03:  Developer Tools & Workflow
 
 ## Author
 - **Name:** Mark Mwangi
