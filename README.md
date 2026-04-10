@@ -39,5 +39,5 @@ building a  portfolio with  this  outputs(• terminal-log.md documenting your C
 ## Challenges Faced
 i did not problems  encounter
 
-## Live Demo (if deployed)
+## Live Demo 
 [View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-03-mwas12345spec/)
